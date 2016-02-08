@@ -1,0 +1,10 @@
+{
+    "syntaxmgr_settings": [
+        {
+            "extensions": ["tsv"],
+            "settings": {
+                "translate_tabs_to_spaces": false
+            }
+        }
+    ]
+}

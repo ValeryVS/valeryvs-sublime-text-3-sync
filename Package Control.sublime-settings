@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Emmet",
+		"FileDiffs",
+		"JavaScriptNext - ES6 Syntax",
+		"JSHint",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Syntax Manager"
+	]
+}
